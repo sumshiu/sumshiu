@@ -1,3 +1,5 @@
+### Hi I'm Summer :D
+
 ### **About Me**
 
 <!--
@@ -29,15 +31,25 @@ Here are some ideas to get you started:
 ### Currently....
 ---
 
-🔭 looking for Spring '25/Summer '25/Fall '25 internships and co-ops!
+🔭 Looking for Spring '25/Summer '25/Fall '25 internships and co-ops!
 
-🌱 learning React, Javascript, and PyTorch
+🌱 Learning Node, React, and PyTorch
 
-💬 ask me about 
+💬 Ask me about my cat
 
-📫 reach me @ summerrwong19@gmail.com
+📫 Reach me @ summerrwong19@gmail.com
 
 <br>
 
 ### For Fun
 ---
+🌃 Love stargazing
+
+🚲 Trying out new things
+
+🏋️‍♀️ Improving my physical health and strength at the gym
+
+
+
+
+
