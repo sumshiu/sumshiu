@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-⚙️ Rising Junior Industrial & Systems Engineer @ Texas A&M
+⚙️ Rising Junior CS @ Texas A&M
 
 🤖 Software Engineering Chair -- Bot & Server @ ENGR TAO
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Currently....
 ---
 
-🔭 Looking for '24/'25 internships and co-ops!
+🔭 Looking for Summer '25 internships and co-ops!
 
 🌱 Learning Node, React, and PyTorch
 
