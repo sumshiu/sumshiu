@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-⚙️ Rising Junior CS @ Texas A&M
+⚙️ Junior CS @ Texas A&M
 
 🤖 Software Engineering Chair -- Bot & Server @ ENGR TAO
 
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 🔭 Looking for Summer '25 internships and co-ops!
 
-🌱 Learning Node, React, and PyTorch
-
 💬 Ask me about my cat
 
 📫 Reach me @ summerrwong19@gmail.com
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
 ---
 🌃 Love stargazing
 
-🚲 Trying out new things
+🫙 Making jars full of origami stars
 
 🏋️‍♀️ Improving my physical health and strength at the gym
 
