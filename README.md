@@ -1,7 +1,3 @@
-### Hi I'm Summer :D
-
-### **About Me**
-
 <!--
 **sumshiu/sumshiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,36 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+# Hi I'm Summer :D
 
 ⚙️ Junior CS @ Texas A&M
 
-🤖 Software Engineering Chair -- Bot & Server @ ENGR TAO
-
-💬 Logistics Organizer @ TAMU Datathon
-
-👩‍🏫 TA @ TAMU's Python Computation & Engineering Physics Lecture
-
-<br>
-
-### Currently....
----
+💻 Learning React and Flask
 
 🔭 Looking for Summer '25 internships and co-ops!
 
-💬 Ask me about my cat
-
 📫 Reach me @ summerrwong19@gmail.com
-
-<br>
-
-### For Fun
----
-🌃 Love stargazing
-
-🫙 Making jars full of origami stars
-
-🏋️‍♀️ Improving my physical health and strength at the gym
 
 
 
