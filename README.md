@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="c++ logo"  />
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="30" alt="java logo"  />
   <img src="https://img.shields.io/badge/Juypter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" height="30" alt="jupyter logo"  />
-  <img src="https://img.shields.io/badge/Firebase-f6820d?style=for-the-badge&logo=firebase&logoColor=white" height="30" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/Firebase-f6820d?style=for-the-badge&logo=firebase&logoColor=white" height="30" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" height="30" alt="react logo"  />
 </div>
 
 
