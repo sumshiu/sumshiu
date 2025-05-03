@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Juypter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" height="30" alt="jupyter logo"  />
   <img src="https://img.shields.io/badge/Firebase-f6820d?style=for-the-badge&logo=firebase&logoColor=white" height="30" alt="firebase logo"  />
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="psql logo"  />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30" alt="vite logo"  />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma logo"  />
 </div>
 
 
@@ -50,8 +54,8 @@ Here are some ideas to get you started:
 
 ## Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumshiu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumshiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumshiu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumshiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
