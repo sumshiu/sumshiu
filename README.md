@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # Hi I'm Summer :D
 
 ## About Me
-⚙️ Junior CS @ Texas A&M
+⚙️ Senior CS @ Texas A&M
 
 💻 Learning React and Flask
 
-🔭 Looking for Summer '25 internships and co-ops!
+🔭 Looking for new grad jobs!
 
 🌃 Love vibing to music
 
